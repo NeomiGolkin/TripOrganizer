@@ -1,0 +1,10 @@
+fastapi[all]>=0.115.12
+langchain>=0.3.25
+psycopg2-binary>=2.9.10
+python-dotenv>=1.1.0
+sqlalchemy>=2.0.41
+uvicorn>=0.34.2
+pydantic
+pydantic-settings
+python-multipart
+psycopg2-binary
