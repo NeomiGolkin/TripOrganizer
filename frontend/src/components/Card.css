@@ -1,0 +1,31 @@
+.card-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  border-bottom-width: 5px;
+  border-bottom-style: solid;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  flex: 1;
+}
+
+.card-number {
+  font-size: 40px;
+  margin: 0;
+}
+
+.card-title {
+  color: #555;
+  margin: 10px 0;
+}
+
+.card-link {
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.card-link:hover {
+  opacity: 0.7;
+}
